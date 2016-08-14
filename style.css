@@ -1,0 +1,36 @@
+body {
+  font-family: 'Lato', sans-serif;
+
+
+}
+
+.lead {
+  font-weight: 300;
+}
+
+.btn {
+  border-radius: 0px;
+}
+
+.panel {
+      border-radius: 0px;
+}
+
+.panel-footer {
+
+      background-color: #fff;
+}
+
+.btn-success {
+    color: #5cb85c;
+    background-color: transparent;
+    border-color: #5cb85c;
+}
+
+.panel-heading {
+    padding: 10px 15px;
+    border-bottom: none;
+     border-top-right-radius: 0px;
+     border-top-left-radius: 0px;
+
+  }
